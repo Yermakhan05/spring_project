@@ -1,0 +1,5 @@
+/Users/yermakhankasymzhomart/Desktop/Spring/project/quartz-scheduler/src/main/java/com/example/qwartz_scheduler/QwartzSchedulerApplication.java
+/Users/yermakhankasymzhomart/Desktop/Spring/project/quartz-scheduler/src/main/java/com/example/qwartz_scheduler/payload/EmailRequest.java
+/Users/yermakhankasymzhomart/Desktop/Spring/project/quartz-scheduler/src/main/java/com/example/qwartz_scheduler/payload/EmailResponse.java
+/Users/yermakhankasymzhomart/Desktop/Spring/project/quartz-scheduler/src/main/java/com/example/qwartz_scheduler/quartz/job/EmailJob.java
+/Users/yermakhankasymzhomart/Desktop/Spring/project/quartz-scheduler/src/main/java/com/example/qwartz_scheduler/web/EmailSchedulerController.java
